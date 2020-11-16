@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 image_predictions.tsv
 twitter-archive-enhanced.csv
+tweet_json.txt
