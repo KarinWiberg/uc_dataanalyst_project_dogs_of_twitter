@@ -2,3 +2,5 @@
 image_predictions.tsv
 twitter-archive-enhanced.csv
 tweet_json.txt
+.DS_Store
+tweets.json
