@@ -4,3 +4,6 @@ twitter-archive-enhanced.csv
 tweet_json.txt
 .DS_Store
 tweets.json
+account_data.csv
+tweet_data.csv
+twitter_keys.rtf
