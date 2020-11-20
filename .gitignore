@@ -7,3 +7,5 @@ tweets.json
 account_data.csv
 tweet_data.csv
 twitter_keys.csv
+twitter_archive_master.csv
+wrangle_report.pages
